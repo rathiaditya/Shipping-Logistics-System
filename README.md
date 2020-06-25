@@ -7,8 +7,8 @@ The database system of a shipping management company aims to manage fleet inform
 The overall objective of the database system is to maintain the data integrity, consistency, security and avoid data redundancy within the shipping system.
 
 The objectives for the Shipping Management System:
-● To provide a quote and voyage estimation of the consignment to
+- To provide a quote and voyage estimation of the consignment to
 customers.
-● Successfully book consignments to vessels without any conflict.
-● To provide customers with consignment tracking
-● Maintain vessel records
+- Successfully book consignments to vessels without any conflict.
+- To provide customers with consignment tracking
+- Maintain vessel records
